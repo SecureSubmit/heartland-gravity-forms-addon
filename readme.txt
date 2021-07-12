@@ -23,7 +23,7 @@ Features of SecureSubmit:
 
   1. Sign Up for an account @ developer.heartlandpaymentsystems.com if you haven't already
   2. Download Gravity Forms
-  3. Install AND Activate Gravity Forms WP plugin AND Heartland SecureSubmit for Gravity Forms WP plugin
+  3. Install AND Activate Gravity Forms WP plugin AND Heartland SecureSubmit for Gravity Forms WP plugin. Run "Composer install" in "heartland-gravity-forms-addon\classes\includes" folder.
   4. Configure Gravity Forms and SecureSubmit accounts:
       * Navigate to Settings to enter your API Keys provided by your Heartland Developer Portal Account
   5. Add Form:
